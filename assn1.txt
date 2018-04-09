@@ -1,2 +1,2 @@
 http://flip3.engr.oregonstate.edu:5225/
-https://github.com/annettb/CS_290.git
+https://github.com/annettb/CS_290
